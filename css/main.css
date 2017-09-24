@@ -1,0 +1,14 @@
+.car {
+    position: relative;
+    background-color: #08BCFC;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 5px;
+}
+
+.area {
+    border: 5px solid black;
+    height: 200px;
+    width: 600px;
+}
