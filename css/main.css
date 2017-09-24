@@ -7,6 +7,15 @@
     margin: 5px;
 }
 
+.block {
+    position: relative;
+    background-color: rgba(252, 18, 8, 0.92);
+    width: 20px;
+    height: 40px;
+    float: right;
+    margin: 5px;
+}
+
 .area {
     border: 5px solid black;
     height: 200px;
